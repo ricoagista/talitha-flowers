@@ -42,7 +42,7 @@ body{
     animation-delay: .7s;
 }
 .greetings > span:nth-child(6){
-    animation-delay: 0.8s;
+    animation-delay: 9s;
 }
 .greetings > span:nth-child(7){
     animation-delay: 1s;z
